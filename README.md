@@ -1,2 +1,2 @@
 # random-python
-Soime python programs that i dont think deserve their own page
+Some python programs that i dont think deserve their own page
